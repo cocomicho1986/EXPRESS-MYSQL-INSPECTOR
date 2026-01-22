@@ -1,0 +1,4 @@
+/express-simple-inspector
+├── package.json
+├── server.js
+└── views/index.ejs
